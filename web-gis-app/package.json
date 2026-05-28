@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "tiles": "node tile-server.js",
-    "start": "vite",
+    "start": "node server.js",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
